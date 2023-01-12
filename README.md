@@ -1,16 +1,6 @@
 # overlay
 A package that creates and manipulates screen overlays based on tkinter.
 
-## Platforms
-- Mac OS (tested and works)
-- Linux (not tested)
-- Windows (tested and does not work)
-
-## Installation
-```sh
-pip install overlay
-```
-
 ## Usage
 A basic overlay is created as such:
 ```python
