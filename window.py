@@ -1,6 +1,7 @@
 '''The main class for creating overlays.'''
 
 __author__ = 'David Ma'
+__maintainer__ = 'Jan Kessler'
 
 __all__ = [
 	'Window',
